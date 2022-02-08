@@ -40,5 +40,4 @@ client.on("message", (message) => {
   } 
 })
 
-client.login('OTM4MTUyNjEwNDY3MzA3NjAw.YfmItA.SxWclR7UkN1QeBhOJAg4xFsT4GY');
-
+client.login(config.apiToken);

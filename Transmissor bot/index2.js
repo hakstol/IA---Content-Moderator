@@ -14,7 +14,7 @@ client.on("ready", () => {
 
 client.on("messageCreate", (message) => {
   if (message.content == "Escreva um xingamento (em inglês)"){
-    message.reply("fuck you")
+    message.reply("fuc$ you")
   }
 })
   client.on("messageCreate", (message) => {
