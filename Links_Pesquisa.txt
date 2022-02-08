@@ -1,7 +1,4 @@
-Canva: https://www.canva.com/design/DAE3O2tEBUg/VLmzwAdhlbZgwjJurdkcwA/view?utm_content=DAE3O2tEBUg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
-
-
-Fontes:
+- Canva: https://www.canva.com/design/DAE3O2tEBUg/VLmzwAdhlbZgwjJurdkcwA/view?utm_content=DAE3O2tEBUg&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink
 
 - Documentação dos Bots: https://discord.js.org/#/docs/discord.js/stable/general/welcome
 
